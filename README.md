@@ -11,7 +11,7 @@ In this article, we will looks at the ideal way to set up and run an NEB calcula
 
 ## What to do if I have problems:
 
-Check out the [troubleshooting section here](https://github.com/geoffreyweal/ORCA_Mechanism_Procedure?tab=readme-ov-file#troubleshooting) if you have problems when running through this proceedure.
+Check out the [troubleshooting section here](https://github.com/geoffreyweal/ORCA_NEB_Procedure?tab=readme-ov-file#troubleshooting-the-nudged-elastic-band-neb-calculation) and [troubleshooting section in the ORCA_Mechanism_Procedure](https://github.com/geoffreyweal/ORCA_Mechanism_Procedure?tab=readme-ov-file#troubleshooting) the if you have problems when running through this proceedure.
 
 
 ## Questions and Feedback
